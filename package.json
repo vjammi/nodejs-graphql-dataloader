@@ -22,6 +22,7 @@
   "dependencies": {
     "@apollo/server": "^4.7.3",
     "dataloader": "^2.2.2",
+    "express": "^4.21.1",
     "graphql": "^16.6.0"
   }
 }
